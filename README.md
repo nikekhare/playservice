@@ -1,2 +1,2 @@
 # playservice
-experimentind with microservice development
+experimenting with microservice development
